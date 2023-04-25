@@ -2,7 +2,8 @@ numpy
 rasterio
 notebook
 pyproj
-
 geopandas
 shapely
 seaborn
+GDAL
+matplotlib
